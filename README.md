@@ -5,17 +5,14 @@
 - Ana Virginia Giambona Díaz [(alu0101322650)](alu0101322650@ull.edu.es)
 - Noelia Ibáñez Silvestre [(alu0101225555)](alu0101225555@ull.edu.es)
  <br />
- <br />
 
 
 ## Índice
-1. [Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.](Indica-en-el-documento-del-ejemplo-de-aplicación-del-DCU,-qué-actividades-se-corresponden-con-el-diagrama-de-Métodos-DCU-y-en-qué-fase-del-diseño-se-ubica)
-2. [Aplicar el DCU para la realización de un prototipo de una aplicación web](Aplicar-el-DCU-para-la-realización-de-un-prototipo-de-un-aplicación-web)
- <br />
- <br />
-
-
-
+1. [Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.](#Indica-en-el-documento-del-ejemplo-de-aplicación-del-DCU,-qué-actividades-se-corresponden-con-el-diagrama-de-Métodos-DCU-y-en-qué-fase-del-diseño-se-ubica)
+2. [Aplicar el DCU para la realización de un prototipo de una aplicación web](#Aplicar-el-DCU-para-la-realización-de-un-prototipo-de-un-aplicación-web)
+ 
+<br />
+<br />
 ### Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica
 
 En el documento del ejemplo de aplicación del DCU encontramos una serie de actividades correspondientes al diagrama de Métodos DCU. Al principio se realizaron una serie de entrevistas a los clientes con el fin de identificar los primeros requisitos funcionales y no funcionales del proyecto. A continuación, se aplicó una tormenta de ideas con todos los especialistas y técnicos de la Biblioteca para identificar otros requerimientos nuevos y ver las necesidades coincidentes con los directivos. Por último, se hizo un estudio homólogo, para comparar entre los sitios con objetivos, contenidos y público similar. Todas estas tareas forman parte del método de análisis con el fin de realizar investigaciones del desarrollo de un proyecto.
