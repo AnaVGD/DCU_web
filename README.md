@@ -10,8 +10,6 @@
 ## Índice
 1. [Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.](#id1)
 2. [Aplicar el DCU para la realización de un prototipo de una aplicación web](#id2)
- 
-<br />
 <br />
 
 ### 1. Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica<a name="id1"></a>
