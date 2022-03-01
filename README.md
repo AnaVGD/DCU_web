@@ -9,8 +9,8 @@
 
 
 ## Índice
-1. [Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.](Indica-en-el-documento-del-ejemplo-de-aplicación-del-DCU,-qué-actividades-se-corresponden-con-el-diagrama-de-Métodos-DCU-y-en-qué-fase-del-diseño-se-ubica.)
-2. [Aplicar el DCU para la realización de un prototipo de una aplicación web](Aplicar-el-DCU-para-la-realización-de-un-prototipo-de-un-aplicación-web)
+1. [Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.](1.-Indica-en-el-documento-del-ejemplo-de-aplicación-del-DCU,-qué-actividades-se-corresponden-con-el-diagrama-de-Métodos-DCU-y-en-qué-fase-del-diseño-se-ubica.)
+2. [Aplicar el DCU para la realización de un prototipo de una aplicación web](2.-Aplicar-el-DCU-para-la-realización-de-un-prototipo-de-un-aplicación-web)
  <br />
  <br />
 
@@ -27,6 +27,7 @@ A continuación, observamos cómo empiezan a desarrollar la fase de diseño dond
 Finalmente, en la fase de evaluación, se procederá a poner a prueba el prototipo realizado. Esto se puede lograr mediante diferentes procedimientos, entre ellos el test de usuarios, el cual se basa en la observación de un grupo de usuarios mientras interactúan con nuestro sistema.
 <br />
 <br />
+
 ### 2. Aplicar el DCU para la realización de un prototipo de una aplicación web 
 
 Se les encomendó una serie de tareas que deberán realizar intuitivamente, analizando los problemas con los que se encuentran. Este tipo de pruebas ayuda a identificar con mayor eficiencia las dificultades de uso que se puedan presentar, pues el usuario está interactuando directamente con la interfaz.
